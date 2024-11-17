@@ -25,7 +25,11 @@ Our **AI-powered insurance app** solves these challenges with:
 4. **Real-Time Tracking**: Transparent claim updates.
 5. **Seamless Document Upload**: Hassle-free user experience.
 
+
+
 ---
+
+
 
 ## Features
 - **Smart Claim Input Form**: Effortlessly input claim details.
@@ -86,3 +90,11 @@ Our **AI-powered insurance app** solves these challenges with:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-repo/vehicle-insurance-ai.git
+
+## You can view the [PPT](https://drive.google.com/file/d/1AbC1sY5WlCVj5LyESABNuTt-uazrk-DG/view?usp=sharing)
+
+## You can view the [Video](https://drive.google.com/file/d/14KQJqM7W8LqJHd6VDvNeGRVYMEwQ4Tof/view?usp=sharing)
+
+
+
+
