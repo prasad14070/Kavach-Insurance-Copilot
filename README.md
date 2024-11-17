@@ -24,12 +24,16 @@ Our **AI-powered insurance app** solves these challenges with:
 3. **Fraud Detection**: AI flags suspicious claims automatically.
 4. **Real-Time Tracking**: Transparent claim updates.
 5. **Seamless Document Upload**: Hassle-free user experience.
-
-
+   
+---
+## Screenshots of the application :
+<img width="169" height="340" alt="image" src="https://github.com/user-attachments/assets/9fc6df9a-3ae2-4a9e-abb5-4b76d70d5354">
+<img width="169" height="340" alt="immg" src="https://github.com/user-attachments/assets/174f608f-3d4d-4e9b-959f-439ecc7a02c7">
+<img width="169" height="340" alt="immg" src="https://github.com/user-attachments/assets/f7019225-f0a2-485c-9bd8-f5aa0266f864">
+<img width="169" height="340" alt="immg" src="https://github.com/user-attachments/assets/b58a7f78-eaa2-4fd6-a66a-2215ce10eaa9">
+<img width="169" height="340" alt="immg" src="https://github.com/user-attachments/assets/d4940e5d-2d78-418e-b4ef-a2250c727212">
 
 ---
-
-
 
 ## Features
 - **Smart Claim Input Form**: Effortlessly input claim details.
