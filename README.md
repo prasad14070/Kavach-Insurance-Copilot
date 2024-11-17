@@ -99,6 +99,9 @@ Our **AI-powered insurance app** solves these challenges with:
 
 ## You can view the [Video](https://drive.google.com/file/d/14KQJqM7W8LqJHd6VDvNeGRVYMEwQ4Tof/view?usp=sharing)
 
+## Contact & Support 💬
+Have questions? Need assistance? Feel free to reach out! Together, let’s redefine the insurance industry with Kavach. 🚗💡
+
 
 
 
