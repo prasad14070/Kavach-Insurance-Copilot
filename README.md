@@ -35,7 +35,7 @@ Our **AI-powered insurance app** solves these challenges with:
 
 ---
 ## Process Flow
-<img width="450" height="340" alt="image" src="https://github.com/user-attachments/assets/b4c3d382-0396-40f4-b9b7-41ecb7e1ec14">
+<img width="700" height="340" alt="image" src="https://github.com/user-attachments/assets/b4c3d382-0396-40f4-b9b7-41ecb7e1ec14">
 
 ---
 
