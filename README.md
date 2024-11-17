@@ -35,9 +35,6 @@ Our **AI-powered insurance app** solves these challenges with:
 
 ---
 
-
----
-
 ## Features
 - **Smart Claim Input Form**: Effortlessly input claim details.
 - **AI-Driven Photo Upload**: Automated damage analysis from images.
