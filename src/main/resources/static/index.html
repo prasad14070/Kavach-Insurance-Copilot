@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insurance Claim Filing App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Contoso Insurance - Claims</h1>
+        <form id="claimForm">
+            <div class="intelligent-app-toggle">
+                <label for="intelligentApp">Intelligent App:</label>
+                <input type="checkbox" id="intelligentApp" name="intelligentApp">
+            </div>
+
+
+            <label for="fileUpload" class="emoji-button" id="emoji-button">✨ <span class="button-text">Upload a picture to file your claim</span></label>
+            <input type="file" id="fileUpload" name="file" hidden>
+
+            <div id="imagePreviewContainer" style="display: none;">
+                <img id="imagePreview" src="" alt="Uploaded Image" style="max-width: 100%; height: auto;"/>
+            </div>
+            <div id="replyTextContainer" class="chat-bubble">
+                <span class="emoji-lion" role="img" aria-label="lion">🦁</span>
+                <p id="replyText"></p>
+            </div>
+            
+            <div class="intelligent-app-confirm" id="intelligent-app-confirm">
+                <p>Would you like to raise a claim?</p>
+                <button type="button" id="confirmButton" onClick="toggleFormFieldsVisibility(true)">Yes</button>
+                <button type="button" id="backButton" class="back" onClick="location.href = '/'">Go back</button>
+            </div>
+
+            <input type="text" id="claimDate" name="claimDate" placeholder="Date" >
+            <input type="text" id="carModel" name="carModel" placeholder="Car Model" >
+            <input type="text" id="carMake" name="carMake" placeholder="Car Make" >
+
+            <input type="text" id="licensePlateNumber" name="licensePlateNumber" placeholder="License Plate Number" >
+            <textarea id="situationExplanation" name="situationExplanation" placeholder="Situation Explanation" ></textarea>
+
+            <select id="damageType" name="damageType" >
+                <option value="">Please select damage type</option>
+                <option value="CAR_INSURANCE">Car Insurance</option>
+                <option value="HOUSEHOLDER_INSURANCE">Householder Insurance</option>
+                <option value="OTHER">Other</option>
+            </select>
+            <select id="carInsuranceType" name="carInsuranceType" >
+                <option value="">Please select car insurance type</option>
+                <option value="THEFT">Theft</option>
+                <option value="PARKING_DAMAGE">Parking Damage</option>
+                <option value="BROKEN_GLASS">Broken Glass</option>
+                <option value="OTHER">Other</option>
+            </select>
+            <select id="estimatedCostCategory" name="estimatedCostCategory" >
+                <option value="">Please select estimated cost category</option>
+                <option value="MINOR">Minor</option>
+                <option value="MEDIUM">Medium</option>
+                <option value="SEVERE">Severe</option>
+            </select>
+            <!-- Buttons -->
+            <button type="submit">File Claim</button>
+            <button type="reset" class="reset-button">Reset</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
