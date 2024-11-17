@@ -34,6 +34,10 @@ Our **AI-powered insurance app** solves these challenges with:
 <img width="169" height="340" alt="immg" src="https://github.com/user-attachments/assets/d4940e5d-2d78-418e-b4ef-a2250c727212">
 
 ---
+## Process Flow
+<img width="169" height="340" alt="image" src="https://github.com/user-attachments/assets/b4c3d382-0396-40f4-b9b7-41ecb7e1ec14">
+
+---
 
 ## Features
 - **Smart Claim Input Form**: Effortlessly input claim details.
