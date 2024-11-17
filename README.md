@@ -34,8 +34,7 @@ Our **AI-powered insurance app** solves these challenges with:
 <img width="180" height="340" alt="immg" src="https://github.com/user-attachments/assets/d4940e5d-2d78-418e-b4ef-a2250c727212">
 
 ---
-## Process Flow
-<img width="800" height="340" alt="image" src="https://github.com/user-attachments/assets/b4c3d382-0396-40f4-b9b7-41ecb7e1ec14">
+
 
 ---
 
@@ -72,6 +71,8 @@ Our **AI-powered insurance app** solves these challenges with:
 ---
 
 ## Process Flow
+<img width="800" height="340" alt="image" src="https://github.com/user-attachments/assets/b4c3d382-0396-40f4-b9b7-41ecb7e1ec14">
+
 1. **Claim Input**: User fills out an intuitive form.
 2. **Photo Upload**: Images are analyzed for damages.
 3. **Policy Verification**: AI ensures coverage accuracy.
